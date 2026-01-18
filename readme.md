@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Pak Loong Chan 👋
 
 Data-driven professional transforming raw data into actionable insights. Experienced in SQL, Python, and creating interactive dashboards that drive business decisions.
 
@@ -94,8 +94,8 @@ I'm available for:
 
 **Get in Touch:**
 - **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourname)
-- **Portfolio:** [Your Website](https://yourname.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/pakloongchan)
+[//]- **Portfolio:** [Your Website](https://yourname.com)
 
 ---
 
