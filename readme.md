@@ -19,7 +19,7 @@ I'm a **Data Analyst** with expertise in exploratory data analysis, business int
 **Languages & Databases:**
 - **Python** - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **SQL** - MySQL, PostgreSQL, BigQuery (SELECT, JOIN, CTE, Window Functions, Aggregations)
-- **R** - ggplot2, dplyr, tidyverse (optional)
+- **R** - ggplot2, dplyr, tidyverse
 
 **Visualization & BI Tools:**
 - **Tableau** | **Power BI** | **Google Data Studio**
@@ -45,36 +45,15 @@ Analyzed 2 years of transaction data to identify revenue opportunities and produ
 - **Tech Stack:** Python (Pandas) | SQL | Tableau
 - **Dataset:** 100K+ transactions across 50+ products
 - **Key Achievement:** Identified top 20% of products generating 80% of revenue
-- **Link:** [View Repository](https://github.com/yourname/ecommerce-sales-dashboard)
-
+- **Link:** [View Repository](https://github.com/pakloong/ecommerce_sales_dashboard)
 ---
 
-### 2. **Customer Segmentation & RFM Analysis**
-Segmented customer base using RFM (Recency, Frequency, Monetary) metrics to enable targeted marketing.
-
-- **Tech Stack:** Python (Pandas, Matplotlib) | SQL | Excel
-- **Segments Identified:** 4 distinct customer groups with actionable profiles
-- **Business Impact:** Enabled personalized marketing strategy
-- **Link:** [View Repository](https://github.com/yourname/customer-segmentation-rfm)
-
----
-
-### 3. **Website Traffic & User Behavior Analysis**
-Analyzed website analytics data to understand user engagement patterns and optimize conversion funnel.
-
-- **Tech Stack:** Python (Pandas) | Google Data Studio | SQL
-- **Metrics Analyzed:** Traffic sources, bounce rates, session duration, conversion funnel
-- **Key Finding:** Mobile users convert at 3x lower rate than desktop
-- **Link:** [View Repository](https://github.com/yourname/website-analytics)
-
----
-
-## 📈 GitHub Statistics
+<!--- ## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&theme=dark&show_icons=true&hide=contribs,prs)
 
 ---
-
+--->
 ## 🎓 What I'm Learning
 
 - Advanced SQL optimization & window functions
@@ -95,7 +74,7 @@ I'm available for:
 **Get in Touch:**
 - **Email:** your.email@example.com
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/pakloongchan)
-[//]- **Portfolio:** [Your Website](https://yourname.com)
+<!--- **Portfolio:** [Your Website](https://yourname.com) --->
 
 ---
 
